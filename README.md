@@ -20,6 +20,6 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 ## Solution:
 
-# git pull --rebase origin master
+### $ git pull --rebase origin master
 or 
-# git pull --rebase (project link)
+### $ git pull --rebase (project link)
